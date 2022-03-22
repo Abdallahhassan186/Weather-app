@@ -1,5 +1,5 @@
-// Personal API Key for OpenWeatherMap API
-const apiKey =',us&appid=24ca13cf1faceeab15e079b923359175&units=imperial';
+// Personal API Key for OpenWeatherMap API.. some charactrs has been deleted for security purposes
+const apiKey =',us&appid=24ca13cf1fac79b923359175&units=imperial';
 
 /* Global Variables */
 
